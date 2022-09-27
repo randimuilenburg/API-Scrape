@@ -41,4 +41,9 @@
 
 .nextButton {
   padding-top: 20px;
+  padding-left: 20px;
+}
+
+.backButton {
+  padding-right: 20px;
 }
